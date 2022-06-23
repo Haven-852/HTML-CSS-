@@ -28,4 +28,7 @@
 ## 练习只有html css jvascript所组成的前端网页练习
 （参照[50天50个项目](https://github.com/bradtraversy/50projects50days)前端练习）
 
-1.
+1.expanding cards
+
+- font-family:字体的格式
+- querySelectorAll:返回一个静态（非实时）NodeList，表示与指定选择器组匹配的文档元素列表。
